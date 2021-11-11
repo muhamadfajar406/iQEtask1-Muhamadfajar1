@@ -1,3 +1,5 @@
+package part2.src;
+
 public class animals {
 
     String Namabinatang;

@@ -1,3 +1,5 @@
+package part1.src;
+
 public class persegi {
     int sisi = 4;
 
